@@ -1,0 +1,2 @@
+# My CodeGolf archive
+This repository serves as a little expanding collection of CodeGolf problems that I solved. I plan to use different languages here - primarily ones that interest me and did not have an answer written in as of the moment I came across the problem.
